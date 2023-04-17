@@ -1,4 +1,6 @@
 # ChessAnalitics
+<h1> The aim is to use the modified Monte Carlo Tree Search Method to identify errors in a chess player's opening repertoire. </h1>
+<a href="https://habr.com/ru/articles/282522/"> More about the method</a>
 <h2>Example 1</h2>
 <p>FEN 1 = 'rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N3P1/PPP2PBP/R1BQK2R'</p>
 <img src="https://github.com/Sergiussupa/ChessAnalitics/blob/main/FEN1.jpeg?raw=true">
